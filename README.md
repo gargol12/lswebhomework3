@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Sergio Mota
 
-I like to:
+I like to: play video games
 
-I'm learning:
+I'm learning: to program websites and web apps
 
 ```
 
